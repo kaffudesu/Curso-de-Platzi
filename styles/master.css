@@ -8,7 +8,6 @@ body{
 
 .container {
     width: 70%;
-    padding: 1em;
     text-align: left;
     border: 1px solid #ddd;
     margin: 0 auto;
@@ -16,4 +15,15 @@ body{
 
 .container h1{
     font-size: 20px;
+}
+
+.header {
+    background: #33a;
+    color: white;
+    padding: 10px;
+    margin: 0;
+}
+
+.post {
+    margin: 1em;
 }
